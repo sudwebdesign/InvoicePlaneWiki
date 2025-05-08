@@ -80,7 +80,7 @@
             </ul>
         </li>
     </ol>
-    
+
     <div class="alert alert-info">
         <?php echo trans('global.footernotice') ?>
     </div>
